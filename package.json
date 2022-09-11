@@ -1,0 +1,27 @@
+{
+  "name": "testdriven",
+  "version": "1.0.0",
+  "description": "fibonacci",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  
+  
+  "keywords": [
+    "TDD"
+  ],
+  "author": "Priscilla Akumu",
+  "license": "ISC",
+  
+  
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.23.0",
+    "eslint-config-prettier": "^8.5.0",
+    "mocha": "^10.0.0"
+  }
+}
